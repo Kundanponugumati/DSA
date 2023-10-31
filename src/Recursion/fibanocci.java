@@ -16,7 +16,7 @@ public class fibanocci {
      return n;
     }
     public static void main(String[] args) {
-        int n=10;
-        System.out.println(compute(25));
+        int n=50;
+        System.out.println(compute(50));
     }
 }
